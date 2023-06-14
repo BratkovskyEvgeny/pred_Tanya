@@ -1,1 +1,1 @@
-# pred_Tanya
+# Churn prediction model for bank.
